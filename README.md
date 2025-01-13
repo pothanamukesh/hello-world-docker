@@ -1,7 +1,7 @@
 # Dockerfile Examples
 
 ## Docker commands
-- docker build -t in28min/hello-world-docker:v1 .
+- docker build -t /hello-world-docker:v1 .
 
 
 ## Dockerfile - 1 - Creating Docker Images
